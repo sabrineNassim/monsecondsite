@@ -1,1 +1,127 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
 
+header{
+	background-color: grey !important;
+}
+section {
+  padding: 150px 0;
+}
+
+ul.contact{
+list-style-type: none;
+}
+
+.carousel-inner>.carousel-item {
+    -webkit-transition: 0s !important;
+    -o-transition: 0s !important;
+    transition: 0s !important;
+}
+
+#name{
+font-family: 'PT Sans Narrow', sans-serif;
+font-size: 25px;
+font-weight: bold;
+margin: 3px 3px -8px 0px;
+padding: 3px 3px -1px 5px;
+letter-spacing : 0.05em;
+}
+
+#title{
+margin: 3px 3px 3px 3px;
+padding: 3px 3px 3px 3px;
+letter-spacing : 0.05em;
+}
+
+#namePhone{
+font-family: 'PT Sans Narrow', sans-serif;
+font-size: 15px;
+font-weight: bold;
+margin: 3px 3px -8px 3px;
+padding: 15px 3px 3px 3px;
+letter-spacing : 0.05em;
+
+}
+
+#numberPhone{
+margin: 3px 3px 3px 3px;
+padding: 0px 3px 3px 3px;
+letter-spacing : 0.05em;
+}
+
+#nameMail{
+font-family: 'PT Sans Narrow', sans-serif;
+font-size: 15px;
+font-weight: bold;
+margin: 3px 3px -12px 3px;
+padding: 15px 3px 3px 3px;
+letter-spacing : 0.05em;
+}
+
+#mail{
+margin: 3px 3px 3px 3px;
+padding: 3px 3px 3px 3px;
+letter-spacing : 0.05em;
+}
+.bouton{
+margin: 20px 3px 3px -15px;
+}
+
+.Sabrine{
+margin: 1px 584px 17px 1px;
+font-size: 15px;
+}
+
+.fab { 
+ margin: 1px 1px 17px 1px;
+}
+
+.fa-google {
+	margin: 0px 0px 0px 33px;
+	
+}
+bach{
+	display: inline-block;
+}
+
+.texte{
+    text-align:center;
+    margin: 1px 1px 1px 1px;
+    padding: 1px 1px 1px 1px;
+    height:333px;
+    margin-left: 1px 1px 1px 1px;
+   
+}
+
+.momo{
+    text-align:center;
+    margin: 1px 1px 1px 1px;
+    padding: 1px 1px 1px 1px;
+    height:422px;
+    margin-left: 1px 1px 1px 1px;
+
+}
+
+
+.sisi{
+    margin: 8px 7px 1px 1px;
+    padding: 1px 1px 1px 1px;
+
+
+}
+
+.woman{
+    margin:-105px 1px 0px 255px;
+    padding: 1px 1px 1px 1px;
+
+
+}
+
+
+
+
+
+   
